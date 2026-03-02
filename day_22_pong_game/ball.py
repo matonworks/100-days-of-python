@@ -1,7 +1,5 @@
 from turtle import Turtle
 
-POSITION = 0
-
 class Ball(Turtle):
     
     def __init__(self):
